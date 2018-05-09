@@ -21,8 +21,7 @@ Exemple "sans motscles" :
 2 exports doivent être réalisés au format png en suivant les consignes suivantes : 
 * Couleur CMJN ou RVB 
 * Taille est pilotée par la largeur
-* Résolution de 150px
-* Résolution de 300px
+* Le premier en résolution de 150px; le deuxième en résolution de 300px
 
 ## CHARTE DE NOMMAGE 
 ### Noms des familles récurrents
@@ -43,7 +42,7 @@ Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
 
 * trebuchement
 * chute-hauteur
-* circulations internes
+* circulations-internes
 * routiers-mission
 * charge-physique-travail
 * manutention-mecanique
@@ -72,8 +71,8 @@ Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
 
 ### Noms de mots cles
 
-Les mots clés sont laissés libres faites vous plaisir
-Exemple
+Les mots clés sont laissés libres, en respectant les caracères imposés: [a-z],[1-9], faites vous plaisir par exemple :
+
 * masque
 * armoire
 * etc
