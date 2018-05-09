@@ -3,7 +3,7 @@ Vous trouverez dans ce dossier tous les médias utilisés par Evarisk et DigiRis
 
 ##  ORGANISATION DES FICHIERS
 
-### FICHIERS SOURCES
+### Fichiers sources
 
 les fichiers sources doivent etre rangés dans le dossier "famille". Les fichiers sources sont souvent au format natif(Ai, EPS, Odt, PSD....)
 
@@ -15,7 +15,7 @@ Exemple :
 * risque_ambiances-lumineuses_source_v1.ai
 * risque_ambiances-lumineuses_150_v1.png
 
-### EXPORT DES FICHIERS 
+### Exports des fichiers
 2 exports doivent être réalisés au format png, couleur CMJN ou RVB
 Résolution de 150 dpi
 Résolution de 300 dpi
