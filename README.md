@@ -8,17 +8,20 @@ Vous trouverez dans ce dossier tous les médias utilisés par Evarisk et DigiRis
 les fichiers sources doivent etre rangés dans le dossier "famille". Les fichiers sources sont souvent au format natif(Ai, EPS, Odt, PSD....)
 
 Le nommage du fichier source et des exports doivent respecté la charte de nommage suivante :
-* famille_sousfamille_motscles_resolution_vX.ai
-Resolution = source, 150, 300
+* famille_sousfamille_motscles_resolution.ai
+Resolution = source, 150px, 300px
 Les caracteres autorisés sont [a-z],[1-9].
 Exemple :
-* risque_ambiances-lumineuses_source_v1.ai
-* risque_ambiances-lumineuses_150_v1.png
+* risque_ambiances-lumineuses_source.ai
+* risque_ambiances-lumineuses_150px.png
+* risque_ambiances-lumineuses_300px.png
 
 ### Exports des fichiers
-2 exports doivent être réalisés au format png, couleur CMJN ou RVB
-Résolution de 150 dpi
-Résolution de 300 dpi
+2 exports doivent être réalisés au format png en suivant les consignes suivantes : 
+* Couleur CMJN ou RVB 
+* Taille est pilotée par la largeur
+* Résolution de 150px
+* Résolution de 300px
 
 ## CHARTE DE NOMMAGE 
 ### Noms des familles récurrents
