@@ -71,7 +71,7 @@ Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
 
 ### Noms de mots cles
 
-Les mots clés sont laissés libre faites vous plaisir
+Les mots clés sont laissés libres faites vous plaisir
 Exemple
 * masque
 * armoire
