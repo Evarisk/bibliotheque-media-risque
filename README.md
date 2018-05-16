@@ -1,7 +1,7 @@
 # La bibliothèque des médias Evarisk
 Vous trouverez dans ce dossier tous les médias utilisés par Evarisk et DigiRisk publié et utilisation sous licence MIT
 
-##  ORGANISATION DES FICHIERS
+##  Organisation des fichiers
 
 ### Fichiers sources
 
@@ -23,7 +23,7 @@ Exemple "sans motscles" :
 * Taille est pilotée par la largeur
 * Le premier en résolution de 150px; le deuxième en résolution de 300px
 
-## CHARTE DE NOMMAGE 
+## Charte de nommage
 ### Noms des familles récurrents
 Les noms ci-dessous sont "récurrents", on considère que leur utilisation est courante. Le but étant de pouvoir retrouver facilement les illustrations par famille, sous-famille et/ou mots clés
 
@@ -69,7 +69,7 @@ Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
 #### epi
 à venir
 
-### Noms de mots cles
+### Mots clés
 
 Les mots clés sont laissés libres, en respectant les caracères imposés: [a-z],[1-9], faites vous plaisir par exemple :
 
