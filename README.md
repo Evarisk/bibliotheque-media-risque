@@ -1,5 +1,9 @@
 # La bibliothèque des médias Evarisk
-Vous trouverez dans ce dossier tous les médias utilisés par Evarisk et DigiRisk publié et utilisation sous licence MIT
+Vous trouverez dans ce dossier :
+Les médias utilisés par Evarisk et DigiRisk
+Des exemples de causeries sécurité
+
+publié sous licence MIT
 
 ##  Organisation des fichiers
 
@@ -27,17 +31,17 @@ Exemple "sans motscles" :
 ### Noms des familles récurrents
 Les noms ci-dessous sont "récurrents", on considère que leur utilisation est courante. Le but étant de pouvoir retrouver facilement les illustrations par famille, sous-famille et/ou mots clés
 
-* risque
+* causerie
 * danger
-* homme
-* methode
-* materiel
 * epi
+* homme
+* materiel
+* methode 
+* risque
 
 ### Noms des sous familles récurrrents
 
-#### Famille : risque
-
+#### Famille : causerie
 Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
 
 * trebuchement
@@ -58,16 +62,28 @@ Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
 * rayonnements
 * psychosociaux
 * amiante
-* autres
+* autre
 
-#### danger
+#### Famille : danger
 à venir
-#### homme
+
+#### Famille : epi
+
+* casque
+* gant
+* lunette
+* vetement
+
+#### Famille : homme
+
 à venir
-#### materiel
-à venir
-#### epi
-à venir
+
+#### Famille : materiel
+
+* outils
+
+#### Famille : risque
+Les noms seront aussi choisis sont basés sur les catégories du document ED840 de l'inrs. voir famille causerie
 
 ### Mots clés
 
