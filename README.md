@@ -76,7 +76,25 @@ Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
 
 #### Famille : homme
 
-à venir
+* charge-lourde
+* allergie
+* ambiances-lumineuses
+* blessures
+* bruit
+* burnout
+* changement-entreprise
+* charge-lourde
+* metiers
+* chute
+* effrondrement
+* electricite
+* incendie
+* info
+* intoxication
+* juge
+* organisation-lieu-travail
+* psychocial
+* rayonnement
 
 #### Famille : materiel
 
