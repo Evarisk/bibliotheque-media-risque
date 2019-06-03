@@ -43,6 +43,7 @@ Les noms ci-dessous sont "récurrents", on considère que leur utilisation est c
 
 #### Famille : causerie
 Les noms choisis sont basés sur les catégories de risques du document ED840.pdf de l'INRS. On peut le trouver dans le dossier : \causerie\_modele-causerie\listing_risque.txt
+
 Le dossier _modele-causerie vous permet d'avoir un exemple des modeles de causerie afin que l'import puisse être automatique dans DigiRisk. Il faudra :
 Fichier d'import des textes : _causerie_modele-slide.txt
 Fichier des médias sources : _causerie_modele-slide.odp
