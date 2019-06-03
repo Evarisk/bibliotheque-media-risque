@@ -42,27 +42,12 @@ Les noms ci-dessous sont "récurrents", on considère que leur utilisation est c
 ### Noms des sous familles récurrrents
 
 #### Famille : causerie
-Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
+Les noms choisis sont basés sur les catégories de risques du document ED840.pdf de l'INRS. On peut le trouver dans le dossier : \causerie\_modele-causerie\listing_risque.txt
+Le dossier _modele-causerie vous permet d'avoir un exemple des modeles de causerie afin que l'import puisse être automatique dans DigiRisk. Il faudra :
+Fichier d'import des textes : _causerie_modele-slide.txt
+Fichier des médias sources : _causerie_modele-slide.odp
+Fichier médias à importer : _causerie_modele-slide_media1.jpg etc...
 
-* trebuchement
-* chute-hauteur
-* circulations-internes
-* routiers-mission
-* charge-physique-travail
-* manutention-mecanique
-* produits-emissions-dechets
-* agents-biologiques
-* equipements-travail
-* effondrements-chutes-objects
-* bruit
-* ambiances-thermiques
-* incendie-explosion
-* electricite
-* ambiances-lumineuses
-* rayonnements
-* psychosociaux
-* amiante
-* autre
 
 #### Famille : danger
 à venir
@@ -101,7 +86,8 @@ Les noms choisis sont basés sur les catégories du document ED840 de l'inrs.
 * outils
 
 #### Famille : risque
-Les noms seront aussi choisis sont basés sur les catégories du document ED840 de l'inrs. voir famille causerie
+Les noms seront aussi choisis sont basés sur les catégories du document ED840 de l'inrs.
+On peut trouver les familles dans le dossier : \causerie\_modele-causerie\listing_risque.txt
 
 ### Mots clés
 
