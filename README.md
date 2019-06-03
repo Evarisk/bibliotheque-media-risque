@@ -29,7 +29,7 @@ Exemple "sans motscles" :
 
 ## Charte de nommage
 ### Noms des familles récurrents
-Les noms ci-dessous sont "récurrents", on considère que leur utilisation est courante. Le but étant de pouvoir retrouver facilement les illustrations par famille, sous-famille et/ou mots clés
+Les noms ci-dessous sont "récurrents", on considère que leur utilisation est courante. Le but étant de pouvoir retrouver facilement les illustrations par famille, sous-famille et/ou mots clés.
 
 * causerie
 * danger
