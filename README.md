@@ -23,7 +23,7 @@ Exemple "sans motscles" :
 
 ### Exports des fichiers
 2 exports doivent être réalisés au format png en suivant les consignes suivantes : 
-* Couleur CMJN ou RVB 
+* Couleur RVB 
 * Taille est pilotée par la largeur
 * Le premier en résolution de 150px; le deuxième en résolution de 300px
 
