@@ -23,7 +23,7 @@ Exemple "sans motscles" :
 
 ### Exports des fichiers
 2 exports doivent être réalisés au format png en suivant les consignes suivantes : 
-* Couleur CMJN ou RVB 
+* Couleur RVB 
 * Taille est pilotée par la largeur
 * Le premier en résolution de 150px; le deuxième en résolution de 300px
 
@@ -97,3 +97,27 @@ Les mots clés sont laissés libres, en respectant les caracères imposés: [a-z
 * masque
 * armoire
 * etc
+
+### Catégories utilisables dans tous les médias basées sur les catégories de l'INRS
+
+On peut trouver ces catégories dans le dossier : \causerie\_modele-causerie\listing_risque_simplifies.txt
+
+* trebuchement-heurt-ou-autre-pertubation-du-mouvement
+* chutes-de-hauteur
+* circulations-internes-de-vehicules
+* routiers-en-mission
+* charge-physique-de-travail
+* manutention-mecanique
+* produits-aux-emissions-et-aux-dechets
+* agents-biologiques
+* equipements-de-travail
+* effondrements-et-aux-chutes-d-objets
+* nuisances-lies-au-bruit
+* ambiances-thermiques
+* incendie-d-explosion
+* electricite
+* ambiances-lumineuses
+* rayonnements
+* psychosociaux
+* amiante
+* autres
