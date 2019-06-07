@@ -100,6 +100,8 @@ Les mots clés sont laissés libres, en respectant les caracères imposés: [a-z
 
 ### Catégories utilisables dans tous les médias basées sur les catégories de l'INRS
 
+On peut trouver ces catégories dans le dossier : \causerie\_modele-causerie\listing_risque_simplifies.txt
+
 * trebuchement-heurt-ou-autre-pertubation-du-mouvement
 * chutes-de-hauteur
 * circulations-internes-de-vehicules
