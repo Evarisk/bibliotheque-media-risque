@@ -47,9 +47,9 @@ Les noms choisis sont basés sur les catégories de risques du document ED840.pd
 Le dossier _modele-causerie vous permet d'avoir un exemple des modeles de causerie afin que l'import puisse être automatique dans DigiRisk. Le nom de ce fichier correspondra au nom de la causerie par exemple "9_principes_prevention"
 
 Il devra contenir :
-*Fichier d'import des textes : _causerie_modele-slide.txt
-*Fichier des médias sources : _causerie_modele-slide.odp
-*Fichier médias à importer : _causerie_modele-slide_media1.jpg etc...
+* Fichier d'import des textes : _causerie_modele-slide.txt
+* Fichier des médias sources : _causerie_modele-slide.odp
+* Fichier médias à importer : _causerie_modele-slide_media1.jpg etc...
 
 
 #### Famille : danger
