@@ -1,8 +1,0 @@
-%Titre%Libre
-%Description%Libre
-%Risque%voircategorieinrsavectiret
-%Media%causerie_9_principes_prevention-media1
-%Media%causerie_9_principes_prevention-media2
-%Media%causerie_9_principes_prevention-media3
-%Media%causerie_9_principes_prevention-media4
-%Media%causerie_9_principes_prevention-media5
