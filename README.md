@@ -14,12 +14,13 @@ les fichiers sources doivent être rangés dans le dossier "famille". Les fichie
 Le nommage du fichier source et des exports doivent respecter la charte de nommage suivante :
 * Les caractères autorisés sont [a-z],[1-9]
 * famille_sousfamille_motscles_resolution.ai
-* les valeurs pour "resolution" sont : "source" ou "150px" ou "300px"
+* les valeurs pour "resolution" sont : "source" ou "150px","300px" ou "600px"
 
 Exemple "sans motscles" :
 * risque_ambiances-lumineuses_source.ai
 * risque_ambiances-lumineuses_150px.png
 * risque_ambiances-lumineuses_300px.png
+* risque_ambiances-lumineuses_600px.png
 
 ### Exports des fichiers
 2 exports doivent être réalisés au format png en suivant les consignes suivantes : 
