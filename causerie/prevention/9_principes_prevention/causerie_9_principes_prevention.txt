@@ -1,4 +1,4 @@
-%Titre%Les 9 principes de prévention
+%causerie%Les 9 principes de prévention
 %Description%Les 9 principes de prévention expliqués avec des dessins :)
 %Risque%risques-de-trebuchement-heurt-ou-autre-pertubation-du-mouvement
 %Media%causerie_9_principes_prevention_media1.jpg
