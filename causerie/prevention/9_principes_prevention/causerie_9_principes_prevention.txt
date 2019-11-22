@@ -1,6 +1,6 @@
 %causerie%Les 9 principes de prévention
 %description%Les 9 principes de prévention expliqués avec des dessins :)
-%risque%risques-autres
+%risque%Risques autres
 %Media%causerie_9_principes_prevention_media1.jpg
 %Media%causerie_9_principes_prevention_media2.jpg
 %Media%causerie_9_principes_prevention_media3.jpg
