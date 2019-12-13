@@ -1,4 +1,4 @@
-# La bibliothèque des médias Evarisk
+﻿# La bibliothèque des médias Evarisk
 Vous trouverez dans ce dossier :
 Les médias utilisés par Evarisk et DigiRisk
 Des exemples de causeries sécurité
@@ -124,4 +124,4 @@ On peut trouver ces catégories dans le dossier : \causerie\_modele-causerie\lis
 * rayonnements
 * psychosociaux
 * amiante
-* autres
+* Risques autres
