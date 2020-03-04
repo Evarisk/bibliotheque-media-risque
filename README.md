@@ -3,8 +3,6 @@ Vous trouverez dans ce dossier :
 Les médias utilisés par Evarisk et DigiRisk
 Des exemples de causeries sécurité
 
-publié sous licence MIT
-
 ##  Organisation des fichiers
 
 ### Fichiers sources
