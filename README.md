@@ -94,7 +94,7 @@ On peut trouver les familles dans le dossier : \causerie\_modele-causerie\listin
 
 ### Mots clés
 
-Les mots clés sont laissés libres, en respectant les caracères imposés: [a-z],[1-9], faites vous plaisir par exemple :
+Les mots clés sont laissés libres, en respectant les caractères imposés: [a-z],[1-9], faites vous plaisir par exemple :
 
 * masque
 * armoire
