@@ -7,7 +7,11 @@ Des exemples de causeries sécurité
 
 ### Fichiers sources
 
-les fichiers sources doivent être rangés dans le dossier "famille". Les fichiers sources sont souvent au format natif(Ai, EPS, Odt, PSD....)
+les fichiers sources doivent être rangés dans le dossier du média concerné. Idéalement si les fichiers sources peuvent être aux formats natifs :
+https://inkscape.org/
+https://www.gimp.org/
+https://fr.libreoffice.org/
+Les fichiers sources sont souvent au format svg, odt, ai, psd...
 
 Le nommage du fichier source et des exports doivent respecter la charte de nommage suivante :
 * Les caractères autorisés sont [a-z],[1-9]
@@ -15,7 +19,7 @@ Le nommage du fichier source et des exports doivent respecter la charte de nomma
 * les valeurs pour "resolution" sont : "source" ou "150px","300px", "600px", "[1-9]px"
 
 Exemple "sans motscles" :
-* risque_ambiances-lumineuses_source.ai
+* risque_ambiances-lumineuses_source.svg
 * risque_ambiances-lumineuses_150px.png
 * risque_ambiances-lumineuses_300px.png
 * risque_ambiances-lumineuses_600px.png
