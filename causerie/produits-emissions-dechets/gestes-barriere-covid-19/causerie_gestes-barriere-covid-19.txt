@@ -1,0 +1,7 @@
+%causerie%Les gestes barrières face au COVID-19
+%description%Les gestes barrières vous protègent et ils protègent aussi les autres
+%risque%Risques liés aux agents biologiques
+%Media%causerie_gestes-barriere-covid-19_media1.jpg
+%Media%causerie_gestes-barriere-covid-19_media2.jpg
+%Media%causerie_gestes-barriere-covid-19_media3.jpg
+%Media%causerie_gestes-barriere-covid-19_media4.jpg
