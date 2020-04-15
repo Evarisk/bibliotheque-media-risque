@@ -1,0 +1,7 @@
+%causerie%Détection des symptomes du COVID-19
+%description%Les moyens de detection du COVID-19
+%risque%Risques liés aux agents biologiques
+%Media%prevention-detection-covid-19_media1.jpg
+%Media%prevention-detection-covid-19_media2.jpg
+%Media%prevention-detection-covid-19_media3.jpg
+%Media%prevention-detection-covid-19_media4.jpg
