@@ -1,0 +1,14 @@
+%causerie%Risques de chutes de hauteur 
+%description%Le risque de chute de hauteur expliqué avec des dessins 
+%risque%Risques de chute de hauteur
+%Media%causerie_risques-de-chutes-de-hauteur_media1.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media2.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media3.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media4.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media5.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media6.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media7.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media8.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media9.jpg
+%Media%causerie_risques-de-chutes-de-hauteur_media10.jpg
+
