@@ -11,7 +11,7 @@ les fichiers sources doivent être rangés dans le dossier du média concerné. 
 https://inkscape.org/
 https://www.gimp.org/
 https://fr.libreoffice.org/
-Les fichiers sources sont souvent au format svg, odt, odg, ai, psd...
+Les fichiers sources sont souvent au format svg, odt, odg, ai, psd....
 
 Le nommage du fichier source et des exports doivent respecter la charte de nommage suivante :
 * Les caractères autorisés sont [a-z],[1-9]
