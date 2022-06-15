@@ -51,6 +51,15 @@ Il devra contenir :
 * Fichier des médias sources : _causerie_modele-slide.odp
 * Fichier médias à importer : _causerie_modele-slide_media1.jpg etc...
 
+#### Famille : DigiRisk
+* digirisk
+	- fichiers normés voir ci-desssus
+* video
+	- AAAAMMJJ_sujetvideo_soussujet_X.Y.Z
+	
+Exemple du nom du dossier afin de ranger les médias liés à cette video :
+202220615_presentation_digirisk
+
 
 #### Famille : danger
 à venir
