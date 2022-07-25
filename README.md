@@ -23,6 +23,7 @@ Exemple "sans motscles" :
 * risque_ambiances-lumineuses_150px.png
 * risque_ambiances-lumineuses_300px.png
 * risque_ambiances-lumineuses_600px.png
+* risque_ambiances-lumineuses_1024px.png
 
 ### Exports des fichiers
 2 exports doivent être réalisés au format png en suivant les consignes suivantes : 
