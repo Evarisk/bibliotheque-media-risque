@@ -44,6 +44,14 @@ Les noms ci-dessous sont "récurrents", on considère que leur utilisation est c
 * pictogramme
 * risque
 
+### Etiquettes et impressions
+* Le dossier utilisé sera "etiquette" 
+La charte de dommage appliquée sera : 
+fournisseurdetiquette_referencefournisseur_dimension_unite_nombre
+dimension (largeur puis hauteur et de preference en millimetre)
+exemple : avery_L7159_63-5mm_33-9mm_24.avery
+le point avery est fourni par le logiciel metier
+
 ### Noms des sous familles récurrrents
 
 #### Famille : causerie
