@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DesktopLabel Version="1">
+  <DYMOLabel Version="4">
+    <Description>DYMO Label</Description>
+    <Orientation>Landscape</Orientation>
+    <LabelName>Small1976411</LabelName>
+    <InitialLength>0</InitialLength>
+    <BorderStyle>SolidLine</BorderStyle>
+    <DYMORect>
+      <DYMOPoint>
+        <X>0.09</X>
+        <Y>0.05666666</Y>
+      </DYMOPoint>
+      <Size>
+        <Width>1.976667</Width>
+        <Height>0.9033334</Height>
+      </Size>
+    </DYMORect>
+    <BorderColor>
+      <SolidColorBrush>
+        <Color A="1" R="0" G="0" B="0"></Color>
+      </SolidColorBrush>
+    </BorderColor>
+    <BorderThickness>1</BorderThickness>
+    <Show_Border>False</Show_Border>
+    <HasFixedLength>False</HasFixedLength>
+    <FixedLengthValue>0</FixedLengthValue>
+    <DynamicLayoutManager>
+      <RotationBehavior>ClearObjects</RotationBehavior>
+      <LabelObjects>
+        <TextObject>
+          <Name>TextObject0</Name>
+          <Brushes>
+            <BackgroundBrush>
+              <SolidColorBrush>
+                <Color A="0" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </BackgroundBrush>
+            <BorderBrush>
+              <SolidColorBrush>
+                <Color A="1" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </BorderBrush>
+            <StrokeBrush>
+              <SolidColorBrush>
+                <Color A="1" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </StrokeBrush>
+            <FillBrush>
+              <SolidColorBrush>
+                <Color A="0" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </FillBrush>
+          </Brushes>
+          <Rotation>Rotation0</Rotation>
+          <OutlineThickness>1</OutlineThickness>
+          <IsOutlined>False</IsOutlined>
+          <BorderStyle>SolidLine</BorderStyle>
+          <Margin>
+            <DYMOThickness Left="0" Top="0" Right="0" Bottom="0" />
+          </Margin>
+          <HorizontalAlignment>Center</HorizontalAlignment>
+          <VerticalAlignment>Middle</VerticalAlignment>
+          <FitMode>AlwaysFit</FitMode>
+          <IsVertical>False</IsVertical>
+          <FormattedText>
+            <FitMode>AlwaysFit</FitMode>
+            <HorizontalAlignment>Center</HorizontalAlignment>
+            <VerticalAlignment>Middle</VerticalAlignment>
+            <IsVertical>False</IsVertical>
+            <LineTextSpan>
+              <TextSpan>
+                <Text>TS-demo-000001</Text>
+                <FontInfo>
+                  <FontName>Segoe UI</FontName>
+                  <FontSize>6.5</FontSize>
+                  <IsBold>False</IsBold>
+                  <IsItalic>False</IsItalic>
+                  <IsUnderline>False</IsUnderline>
+                  <FontBrush>
+                    <SolidColorBrush>
+                      <Color A="1" R="0" G="0" B="0"></Color>
+                    </SolidColorBrush>
+                  </FontBrush>
+                </FontInfo>
+              </TextSpan>
+            </LineTextSpan>
+          </FormattedText>
+          <ObjectLayout>
+            <DYMOPoint>
+              <X>0.089999996</X>
+              <Y>0.8226824</Y>
+            </DYMOPoint>
+            <Size>
+              <Width>0.91710156</Width>
+              <Height>0.12500003</Height>
+            </Size>
+          </ObjectLayout>
+        </TextObject>
+        <QRCodeObject>
+          <Name>QRCodeObject0</Name>
+          <Brushes>
+            <BackgroundBrush>
+              <SolidColorBrush>
+                <Color A="1" R="1" G="1" B="1"></Color>
+              </SolidColorBrush>
+            </BackgroundBrush>
+            <BorderBrush>
+              <SolidColorBrush>
+                <Color A="1" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </BorderBrush>
+            <StrokeBrush>
+              <SolidColorBrush>
+                <Color A="1" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </StrokeBrush>
+            <FillBrush>
+              <SolidColorBrush>
+                <Color A="1" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </FillBrush>
+          </Brushes>
+          <Rotation>Rotation0</Rotation>
+          <OutlineThickness>1</OutlineThickness>
+          <IsOutlined>False</IsOutlined>
+          <BorderStyle>SolidLine</BorderStyle>
+          <Margin>
+            <DYMOThickness Left="0" Top="0" Right="0" Bottom="0" />
+          </Margin>
+          <BarcodeFormat>QRCode</BarcodeFormat>
+          <Data>
+            <DataString>URL:https://1url.re/ts-demo-000001</DataString>
+          </Data>
+          <HorizontalAlignment>Center</HorizontalAlignment>
+          <VerticalAlignment>Middle</VerticalAlignment>
+          <Size>AutoFit</Size>
+          <EQRCodeType>QRCodeWebPage</EQRCodeType>
+          <WebAddressDataHolder>
+            <MultiDataString>
+              <DataString></DataString>
+              <DataString>https://1url.re/ts-demo-000001</DataString>
+            </MultiDataString>
+          </WebAddressDataHolder>
+          <ObjectLayout>
+            <DYMOPoint>
+              <X>1.1049165</X>
+              <Y>0.056666672</Y>
+            </DYMOPoint>
+            <Size>
+              <Width>0.9398215</Width>
+              <Height>0.8744117</Height>
+            </Size>
+          </ObjectLayout>
+        </QRCodeObject>
+        <ImageObject>
+          <Name>ImageObject0</Name>
+          <Brushes>
+            <BackgroundBrush>
+              <SolidColorBrush>
+                <Color A="0" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </BackgroundBrush>
+            <BorderBrush>
+              <SolidColorBrush>
+                <Color A="1" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </BorderBrush>
+            <StrokeBrush>
+              <SolidColorBrush>
+                <Color A="1" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </StrokeBrush>
+            <FillBrush>
+              <SolidColorBrush>
+                <Color A="0" R="0" G="0" B="0"></Color>
+              </SolidColorBrush>
+            </FillBrush>
+          </Brushes>
+          <Rotation>Rotation0</Rotation>
+          <OutlineThickness>1</OutlineThickness>
+          <IsOutlined>False</IsOutlined>
+          <BorderStyle>SolidLine</BorderStyle>
+          <Margin>
+            <DYMOThickness Left="0" Top="0" Right="0" Bottom="0" />
+          </Margin>
+          <Data>iVBORw0KGgoAAAANSUhEUgAAAJQAAAB6CAYAAABZcnomAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARxSURBVHhe7dtBThNhFMBxjsAN1BuwNi5YGlesjEuO4BX0AnoEblAWnZmQbgbSxLBoYkrSDYsaJRgXRLohpsaMeROGfLwOpeV7MG/a/y95m3aobb+/X4vObGysqCzLttM03c+yrPA2SZJ8leennzOcyrJsVy+i09nVzx3OJEmyEy5ar9crBoNBcXp62viMRqMiz3Md1XP9GuDI9cdJuVjD4bDwSJ5X9RzTNH2vXwMcqRZKdgKvrq6uwqD29WuAI9VCHR8f63V0JfjIy/VrgCOLBnVxcVF+p5HjrEceV3aheQiqJe4LajqdlvcFC/poI2HdJTiOoDyrFqouKImp3+/PLPxjztnZmX4apeAYgvKsWqi6oORX93CxT05O7v1oWpY8XrgD3vXLAUG1xLygwt3p/Pxc321K/v2r+rPqoiWolpgXVHXfwcGBvstcuEvJLwAaQbXEIkHJ7vHYCGpFEBRMERRMERRMERRMERRMERRMERRMERRMEZQznU5nU67IaPHcG5T818t4PH7UOTw8XCio6gqYNk63293S/dyQkNI0/ZwkyWXwt6e1UxfUU5+6Uk3dKSz6mBZPPhOWxBSe3L8KUxeUPn3lqUb+XE0f0+aRTehWVFmW7YUHyFUZ+hKgtk3drjCZTGaOC+fo6GjmzVpk5Of0Y4VT95Gnj2njhJeE3Vxscf2dqbxRvqzKm76uwi/Sy0zdbrgO5AzYMKpqd5IvWOUN886BXgfh9XLLjNfr/56CNBO8F9u3gpJtbJ3JmZXhmZaLjBxfd0bmupBmCGoO2cblfZCPsftGjpPj1xlBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBwRRBKb/eviu+P3thNuuGoBSCikNQCkHFISiFoOIQlEJQcQhKIag4BKUQVByCUggqDkEpBBWHoBSCikNQCkHFISiFoOIQlEJQcQhKIag4BKUQVJyVC+rvjx/F5afPD57zl69moogZ/fjLzJ8vX/TLc2/lgpJF0Iva1pGo2oagHA9BOUBQzSIox0NQDhBUswjK8RCUAwTVLIJyPATlAEE1i6AcD0E5QFDNIijHQ1AOEFSzCMrxEJQDBNUsgnI8BOUAQTWLoBwPQTlAUM1auaD+TSZlVA+dn6/fzCxszOjHX2bk/Pi2WbmgYnHVSxyCUggqDkEpBBWHoBSCikNQCkHFISiFoOIQlEJQcQhKIag4BKUQVByCUggqDkEpBBWHoBSCikNQCkHFISiFoOIQlPL7w8cyKqtZNwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFUwQFU3ODGo1G+nhgLmlGB/W8uiHP82I6neqfAe4kzVT9dDqdzQ2RZVle3TgYDIgKCxmPxzcxJUnytYxJdLvdrWDbKnq9XjEcDsvPR4apm36/H37USVA7N0Fd71K7SZJchgcxzIKzdyumyvX3qb2aH2CYuvmWpun7sKH/7+BW5BKFke0AAAAASUVORK5CYII=</Data>
+          <ScaleMode>Uniform</ScaleMode>
+          <HorizontalAlignment>Center</HorizontalAlignment>
+          <VerticalAlignment>Middle</VerticalAlignment>
+          <ObjectLayout>
+            <DYMOPoint>
+              <X>0.09</X>
+              <Y>0.10874995</Y>
+            </DYMOPoint>
+            <Size>
+              <Width>0.88684636</Width>
+              <Height>0.7148308</Height>
+            </Size>
+          </ObjectLayout>
+        </ImageObject>
+      </LabelObjects>
+    </DynamicLayoutManager>
+  </DYMOLabel>
+  <LabelApplication>Blank</LabelApplication>
+  <DataTable>
+    <Columns></Columns>
+    <Rows></Rows>
+  </DataTable>
+</DesktopLabel>
