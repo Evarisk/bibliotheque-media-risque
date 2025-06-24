@@ -1,0 +1,224 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="820" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-100" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Evaluation&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;d&#39;un risque&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1006" y="114" width="110" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-101" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-100" target="j_Nfi1Lx7xKpKB2DF2yL-102" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1044" y="166" as="sourcePoint" />
+            <mxPoint x="1038" y="206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-102" value="Risque&lt;div&gt;Chimique&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffcc, #281d00);strokeColor=light-dark(#000000, #6d5100);strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="1020.63" y="188" width="80.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-104" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Risque Chimique&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Evaluation avec&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;le logiciel&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Seirich.fr&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1156" y="185.75" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-116" value="Choix de l&#39;outil permettant de réaliser l&#39;évaluation du risques" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
+          <mxGeometry x="1002" y="66" width="516" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-120" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-102" target="j_Nfi1Lx7xKpKB2DF2yL-104" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1108" y="228" as="sourcePoint" />
+            <mxPoint x="1178" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-121" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j_Nfi1Lx7xKpKB2DF2yL-120" connectable="0" vertex="1">
+          <mxGeometry x="-0.269" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-122" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Document Unique&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Report de l&#39;évaluation&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;dans la méthode&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;simplifiée&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1333" y="185.75" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-123" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-104" target="j_Nfi1Lx7xKpKB2DF2yL-122" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1257" y="316" as="sourcePoint" />
+            <mxPoint x="1335" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-125" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-102" target="j_Nfi1Lx7xKpKB2DF2yL-126" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1061" y="276" as="sourcePoint" />
+            <mxPoint x="1038" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-126" value="Risque&lt;div&gt;Amiante&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffcc, #281d00);strokeColor=light-dark(#000000, #6d5100);strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="1020.63" y="308" width="80.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-127" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Risque Amiante&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Evaluation avec&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;la norme&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;NF X46-010&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1156" y="305.75" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-128" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-126" target="j_Nfi1Lx7xKpKB2DF2yL-127" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1108" y="348" as="sourcePoint" />
+            <mxPoint x="1178" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-129" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j_Nfi1Lx7xKpKB2DF2yL-128" connectable="0" vertex="1">
+          <mxGeometry x="-0.269" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-130" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Document Unique&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Report de l&#39;évaluation&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;dans la méthode&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;simplifiée&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1333" y="305.75" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-131" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-127" target="j_Nfi1Lx7xKpKB2DF2yL-130" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1257" y="436" as="sourcePoint" />
+            <mxPoint x="1335" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-132" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="j_Nfi1Lx7xKpKB2DF2yL-133" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1061" y="388" as="sourcePoint" />
+            <mxPoint x="1038" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-133" value="Risque&lt;div&gt;RPS&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffcc, #281d00);strokeColor=light-dark(#000000, #6d5100);strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="1020.63" y="428" width="80.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-134" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Risque RPS&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Evaluation avec&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;l&#39;outil 37 ou 10&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;de l&#39;INRS&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1156" y="425.75" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-135" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-133" target="j_Nfi1Lx7xKpKB2DF2yL-134" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1108" y="468" as="sourcePoint" />
+            <mxPoint x="1178" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-136" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j_Nfi1Lx7xKpKB2DF2yL-135" connectable="0" vertex="1">
+          <mxGeometry x="-0.269" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-137" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Document Unique&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Report de l&#39;évaluation&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;dans la méthode&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;simplifiée&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1333" y="425.75" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-138" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-134" target="j_Nfi1Lx7xKpKB2DF2yL-137" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1257" y="556" as="sourcePoint" />
+            <mxPoint x="1335" y="556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-139" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="j_Nfi1Lx7xKpKB2DF2yL-140" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1061" y="510.25" as="sourcePoint" />
+            <mxPoint x="1038" y="568.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-140" value="Risque&lt;div&gt;Simple&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffcc, #281d00);strokeColor=light-dark(#000000, #6d5100);strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="1020.63" y="550.25" width="80.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-141" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Risque simple&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Evaluation avec&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;la méthode simplifiée&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;4 couleurs = 4 niveaux&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1156" y="548" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-142" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-140" target="j_Nfi1Lx7xKpKB2DF2yL-141" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1108" y="590.25" as="sourcePoint" />
+            <mxPoint x="1178" y="588.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-143" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j_Nfi1Lx7xKpKB2DF2yL-142" connectable="0" vertex="1">
+          <mxGeometry x="-0.269" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-144" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Document Unique&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;Intégration évaluation&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;Intégration photos&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1333" y="548" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-145" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-141" target="j_Nfi1Lx7xKpKB2DF2yL-144" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1257" y="678.25" as="sourcePoint" />
+            <mxPoint x="1335" y="678.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-146" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="j_Nfi1Lx7xKpKB2DF2yL-147" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1061" y="630.25" as="sourcePoint" />
+            <mxPoint x="1038" y="688.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-147" value="Risque&lt;div&gt;Avancé&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffcc, #281d00);strokeColor=light-dark(#000000, #6d5100);strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="1020.63" y="670.25" width="80.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-148" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Risque avancée&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Evaluation avec&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;la méthode avancée&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;basée sur les 5 critères&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1156" y="668" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-149" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-147" target="j_Nfi1Lx7xKpKB2DF2yL-148" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1108" y="710.25" as="sourcePoint" />
+            <mxPoint x="1178" y="708.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-150" value="Oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j_Nfi1Lx7xKpKB2DF2yL-149" connectable="0" vertex="1">
+          <mxGeometry x="-0.269" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-151" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Document Unique&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;Intégration évaluation&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;Intégration photos&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="1333" y="668" width="141" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-152" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-148" target="j_Nfi1Lx7xKpKB2DF2yL-151" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1257" y="798.25" as="sourcePoint" />
+            <mxPoint x="1335" y="798.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-154" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;entryX=0.973;entryY=-0.045;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-122" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1518" y="231.5" as="sourcePoint" />
+            <mxPoint x="1488.813" y="793.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1498" y="506" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-156" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.972;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-130" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1498" y="266" as="sourcePoint" />
+            <mxPoint x="1487.732" y="796.9000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1498" y="576" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-158" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.971;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j_Nfi1Lx7xKpKB2DF2yL-137" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1478" y="467" as="sourcePoint" />
+            <mxPoint x="1486.6510000000003" y="798.1999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1498" y="636" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-160" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.974;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1474" y="586" as="sourcePoint" />
+            <mxPoint x="1489.8940000000002" y="797.3499999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1498" y="754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j_Nfi1Lx7xKpKB2DF2yL-162" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.972;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1474" y="706" as="sourcePoint" />
+            <mxPoint x="1487.732" y="796.4999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1498" y="874" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KnOpNqPhl-oMwbhercx-39" value="Mise à jour du Document Unique" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
+          <mxGeometry x="1002" y="800" width="490" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
