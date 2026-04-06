@@ -1,0 +1,16 @@
+Pour gemini.google.com
+# Sujet de l'illustration
+## "description du sujet ...."
+
+# La Structure Technique (Le "Contenant")
+## "Icône carrée isolée, haute résolution, cadrage centré avec une marge de sécurité interne pour la lisibilité. Fond blanc pur uni, angles arrondis subtils. Style Flat Design minimaliste avec des contours fins gris anthracite (Ligne claire)."
+
+# La Théorie du Style (L'ADN Visuel)
+## "Illustration vectorielle épurée, sans texte, sans dégradés complexes. Utilisation de formes géométriques simples pour représenter les personnages (têtes circulaires, corps stylisés). Style pictogramme moderne et professionnel, similaire à une signalétique de sécurité industrielle ou de bureau. Ombrages plats très légers."
+
+# La Palette de Couleurs (L'Identité)
+## "Palette :
+* Fond : Blanc (#FFFFFF)
+* Contours et Éléments Neutres : Gris anthracite à Gris moyen (#4A4A4A, #808080)
+* Éléments d'Alerte ou d'Action : Rouge brique / Rouge signalisation (#A52A2A)
+* Éléments de Validation ou Accent : Jaune orangé / Or (#D4A017) ou Vert sauge (#7DA070)"
